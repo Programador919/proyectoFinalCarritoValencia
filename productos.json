@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "nombre": "MOTO FAT BOT 114",
+        "cantidad": 1,
+        "desc": "1868cc, Inyección electrónica de combustible de toma secuencial (ESPFI)",
+        "precio": 3000,
+        "img": "img/moto1.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "MOTO BREAKOUT 117",
+        "cantidad": 1,
+        "desc": "1923CC, Inyección electrónica de combustible de toma secuencial (ESPFI)",
+        "precio": 4000,
+        "img": "img/moto2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "MOTO SPORT GLIDE",
+        "cantidad": 1,
+        "desc": "1745cc, Inyección electrónica de combustible de toma secuencial (ESPFI)",
+        "precio": 5000,
+        "img": "img/moto3.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "STREET BOB 114",
+        "cantidad": 1,
+        "desc": "1868CC, Inyección electrónica de combustible de toma secuencial (ESPFI)",
+        "precio": 6000,
+        "img": "img/moto4.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "HERITAGE CLASSIC",
+        "cantidad": 1,
+        "desc": "1868, Inyección electrónica de combustible de toma secuencial (ESPFI)",
+        "precio": 7000,
+        "img": "img/moto5.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "MOTO LOW RIDER S",
+        "cantidad": 1,
+        "desc": "1923cc, Inyección electrónica de combustible de toma secuencial (ESPFI)",
+        "precio": 8000,
+        "img": "img/moto6.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "MOTO FAT BOY 114",
+        "cantidad": 1,
+        "desc": "1868cc, Inyección electrónica de combustible de toma secuencial (ESPFI)",
+        "precio": 9000,
+        "img": "img/moto7.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "MOTO SPORTSTER S",
+        "cantidad": 1,
+        "desc": "1252cc, Inyección electrónica de combustible de toma secuencial (ESPFI)",
+        "precio": 10000,
+        "img": "img/moto8.jpg"
+    }
+]
